@@ -191,7 +191,7 @@
     "refresh_image_engine_configuration": false,
     "custom_configuration_present": true
   },
-  "domain_wildcard_alias": "",
+   
   "comment": "DELETE",
   "enable_ssl": true,
   "ssl_conf_profile": "571e9f7591dcb9f97a0c4841",
