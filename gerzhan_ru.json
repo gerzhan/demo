@@ -180,9 +180,7 @@
   "account_id": "5714b425fce0aa6415edd853",
   "tolerance": "3000",
   "origin_server_location_id": "55a56fa6476c10c329a90741",
-  "domain_aliases": [
-    "images.piwik.grzhan.ru"
-  ],
+ 
   "image_engine": {
     "enable_image_engine": true,
     "image_engine_token": "nuubit",
