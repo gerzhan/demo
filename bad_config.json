@@ -6,7 +6,7 @@
     "enable_3rd_party_rewrite": false,
     "enable_3rd_party_root_rewrite": false,
     "enable_3rd_party_runtime_rewrite": false
-  } 
+  }, 
   "proxy_timeout": 20,
   "rev_component_bp": {
     "enable_quic": false,
