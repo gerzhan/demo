@@ -87,7 +87,7 @@
   "origin_server": "dell.com",
   "origin_host_header": "dell.com",
   "tolerance": "3000",
-  "origin_server_location_id": "56132de626b369ac2fc85de6",
+  "origin_server_location_id": "55a56fa6476c10c329a90741",
   "enable_ssl": true,
   "ssl_conf_profile": "571e9f7591dcb9f97a0c4841",
   "ssl_cert_id": "",
